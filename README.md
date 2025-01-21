@@ -1,3 +1,5 @@
+
+
 Overview
 This is a React-based Simple E-Commerce Cart application. The app allows users to browse a list of products, add them to a cart, modify cart contents, and view the total price. The project demonstrates the use of React components, props, state, and events to manage app functionality.
 
