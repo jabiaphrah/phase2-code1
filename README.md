@@ -14,8 +14,10 @@ Sort products by name or price (ascending/descending).
 Persist the cart state using localStorage.
 Display a message when the cart is empty or no products are available.
 Implement a search bar to filter products by name.
-Technologies Used
-React: Component-based architecture for building user interfaces.
-JavaScript: Dynamic interactivity.
-CSS: Styling for the application.
-Vite: Tool for building and serving the project during development.
+
+
+**Technologies Used**
+**React**: Component-based architecture for building user interfaces.
+**JavaScript**: Dynamic interactivity.
+**CSS:** Styling for the application.
+**Vite**: Tool for building and serving the project during development.
